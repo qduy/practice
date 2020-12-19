@@ -1,8 +1,8 @@
-package Core;
+package Core.Core_Array;
 
 import java.util.Scanner;
 
-public class Array2 {
+public class Array_02 {
     public static boolean check(int num){
         if (num<1){
             return false;
