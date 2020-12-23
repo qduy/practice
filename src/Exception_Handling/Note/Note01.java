@@ -1,10 +1,13 @@
+/*
 package Exception_Handling.Note;
 
 import java.io.IOException;
 
 public class Note01 extends D {
- /*nếu phương thức của lớp cha không khai báo ném ra exception thì phương thức được ghì đè của lớp cha không thể
-    ném ra ngoại lệ checked */
+ */
+/*nếu phương thức của lớp cha không khai báo ném ra exception thì phương thức được ghì đè của lớp cha không thể
+    ném ra ngoại lệ checked *//*
+
 
     void method01() throws IOException { // ở đây chính là lỗi sai
         System.out.println("test exception child");
@@ -20,3 +23,4 @@ class D{
         System.out.println("parent");
     }
 }
+*/
